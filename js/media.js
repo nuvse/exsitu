@@ -5,12 +5,19 @@
    например "https://www.youtube.com/embed/XXXXXXXXXXX".
    Порядок в списке = порядок на сайте. Не забудь запятую после каждой строки. */
 const PHOTOS=[
-  // "photo1.jpg",
-  // "photo2.jpg",
+   "1.jpeg",
+   "2.jpeg",
+   "3.jpeg",
+   "4.jpeg",
+   "5.jpeg",
+   "6.jpeg"
 ];
 const VIDEOS=[
-  // "video1.mp4",
-  // "https://www.youtube.com/embed/XXXXXXXXXXX",
+   "video.mp4",
+   "video1.mp4",
+   "video2.mp4",
+   "video3.mp4",
+   "video4.mp4",
 ];
 
 const pg=document.getElementById('photos'),vg=document.getElementById('videos');
